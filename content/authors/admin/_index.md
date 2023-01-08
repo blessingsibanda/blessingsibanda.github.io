@@ -47,9 +47,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
   - icon: twitter
     icon_pack: fab
+    link: https://twitter.com/banQomania
     link: https://twitter.com/banQomania
     label: Follow me on Twitter
     display:
@@ -60,6 +61,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/banQomania
+    link: https://github.com/banQomania
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/banqo/
@@ -69,12 +71,27 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+organizations:
+  - name: Masakhane
+    url: https://www.masakhane.io/
+education:
+  courses:
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
+superuser: true
+status:
+  icon: ☕️
+last_name: Wu
 highlight_name: true
+first_name: Alice
+email: ""
 ---
 Blessing Sibanda is a software engineer and researcher in Natural Language Processing and Computer Vision. His research interests include NLP for low resource languages and applications of Computer Vision in Agriculture in resource constraint environments. He is in the organizing committee for various organisations which imclude the IndabaX Zimbabwe conference, Data Science Zimbabwe community and Leipizig University IDEAs Summer School Research Colloquium.
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
