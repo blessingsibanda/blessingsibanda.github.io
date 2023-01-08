@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://blessingsibanda.github.io/sitemap.xml
