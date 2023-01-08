@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer, Natural Language Processing & Computer Vision Researcher
+role: Software Engineer, Natural Language Processing & Computer Vision Researcher 
 
 # Organizations/Affiliations to show in About widget
 organizations:
